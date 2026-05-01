@@ -2,6 +2,16 @@ import { NewsItem } from './constants';
 
 export const news: NewsItem[] = [
 {
+  title: 'Update your bookmarks: the BCL URL is changing',
+  time: '2026-04-30 12:00:00 -0600',
+  html: 'The Building Component Library (BCL) URL is changing to https://bcl.nlr.gov. Update your bookmarks for uninterrupted access to the library.'
+},
+{
+  title: 'OpenStudio 3.11.0 SDK Release',
+  time: '2026-01-15 12:00:00 -0600',
+  html: 'OpenStudio 3.11.0 SDK has been released. 3.11.0 is a major release, this update includes performance improvements and bug fixes. View the complete <a href="https://github.com/NatLabRockies/OpenStudio/releases/tag/v3.11.0">Release Notes</a> for more information.'
+},
+{
   title: 'OpenStudio 3.10.0 SDK Release',
   time: '2025-06-18 12:00:00 -0600',
   html: 'OpenStudio 3.10.0 SDK has been released. 3.10.0 is a major release, this update includes performance improvements and bug fixes. View the complete <a href="https://github.com/NatLabRockies/OpenStudio/releases/tag/v3.10.0">Release Notes</a> for more information.'
