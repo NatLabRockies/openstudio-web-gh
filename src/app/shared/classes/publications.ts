@@ -79,7 +79,7 @@ export const publications: Publication[] = [{
 }, {
   html: `Irani, A., L. Leung, and M. Sedino. “Energy Modeling of a Supertall Building Using Simulated 600 m Weather File Data.” <em>International Journal of High-Rise Buildings</em> 8, no. 2 (2019): 101–6. <a href="https://doi.org/10.21022/IJHRB.2019.8.2.101">https://doi.org/10.21022/IJHRB.2019.8.2.101</a>.`
 }, {
-  html: `J. Lustbader, C. Kreutzer, M. Jeffers. “FY13 CoolCalc Annual Report (Internal Use Only),” 2015. <a href="https://www.nrel.gov/docx/fy15osti/60632.pdf">https://www.nrel.gov/docx/fy15osti/60632.pdf</a>.`
+  html: `J. Lustbader, C. Kreutzer, M. Jeffers. “FY13 CoolCalc Annual Report (Internal Use Only),” 2015. <a href="https://www.nlr.gov/docx/fy15osti/60632.pdf">https://www.nlr.gov/docx/fy15osti/60632.pdf</a>.`
 }, {
   html: `Jradi, M., C. Veje, and B.N. Jørgensen. “Deep Energy Renovation of the Mærsk Office Building in Denmark Using a Holistic Design Approach.” <em>Energy and Buildings</em> 151 (2017): 306–19. <a href="https://doi.org/10.1016/j.enbuild.2017.06.047">https://doi.org/10.1016/j.enbuild.2017.06.047</a>.`
 }, {
@@ -162,7 +162,7 @@ export const publications: Publication[] = [{
 }, {
   html: `Sunnam, R., A. Marston, and O. Baumann. “Analysis of Chilled Ceiling Performance to Control Temperature in a Data Control Center Using Energyplus: A Case Study,” 1562–67, 2013. <a href="http://www.ibpsa.org/proceedings/BS2013/p_2356.pdf">http://www.ibpsa.org/proceedings/BS2013/p_2356.pdf</a>.`
 }, {
-  html: `“Technology Performance Exchange. National Renewable Energy Laboratory,” 2015. <a href="https://www.nrel.gov/docs/fy13osti/56457.pdf">https://www.nrel.gov/docs/fy13osti/56457.pdf</a>.`
+  html: `“Technology Performance Exchange. National Renewable Energy Laboratory,” 2015. <a href="https://www.nlr.gov/docs/fy13osti/56457.pdf">https://www.nlr.gov/docs/fy13osti/56457.pdf</a>.`
 }, {
   html: `Theresa Innocent, L., and V. Ramalingam. “Comparison of a Real-Time Building with Brick and Exfoliated Vermiculite Using OpenStudio Modeling for Indian Climatic Zones.” <em>Energy Sources, Part A: Recovery, Utilization and Environmental Effects</em> 41, no. 19 (2019): 2334–45. <a href="https://doi.org/10.1080/15567036.2018.1557300">https://doi.org/10.1080/15567036.2018.1557300</a>.`
 }, {
