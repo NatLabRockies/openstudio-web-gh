@@ -2,6 +2,10 @@ import { NewsItem } from './constants';
 
 export const developerNews: NewsItem[] = [
 {
+  title: 'OpenStudio 3.11.0 SDK Release',
+  time: '2026-01-15 12:00:00 -0600',
+  html: 'OpenStudio 3.11.0 SDK has been released. 3.11.0 is a major release, this update includes performance improvements and bug fixes. View the complete <a href="https://github.com/NatLabRockies/OpenStudio/releases/tag/v3.11.0">Release Notes</a> for more information.'
+}, {
   title: 'OpenStudio 3.10.0 SDK Release',
   time: '2025-06-18 12:00:00 -0600',
   html: 'OpenStudio 3.10.0 SDK has been released. 3.10.0 is a major release, this update includes performance improvements and bug fixes. View the complete <a href="https://github.com/NatLabRockies/OpenStudio/releases/tag/v3.10.0">Release Notes</a> for more information.'
@@ -44,7 +48,7 @@ export const developerNews: NewsItem[] = [
 }, {
   title: 'BCL 2.0 implementation ready for public testing',
   time: '2021-08-11 12:33:40 -0600',
-  html: `<p>The development of the Building Component Library 2.0 is complete and it is now available for public testing at <a href="https://bcl.nrel.gov/">https://bcl.nrel.gov/</a>. The main BCL website is deprecated and will be replaced by this new implementation.</p>
+  html: `<p>The development of the Building Component Library 2.0 is complete and it is now available for public testing at <a href="https://bcl.nlr.gov/">https://bcl.nlr.gov/</a>. The main BCL website is deprecated and will be replaced by this new implementation.</p>
 <p>BCL 2.0 uses a set of GitHub repositories as the back-end for robustness, transparency, and flexibility: version-controlled Measures, Components, Weather Files, and more. Instructions are available on the new site for organizations and groups with BCL content to migrate their components and measures to GitHub repositories.</p>`
 }, {
   title: 'OpenStudio 3.2.1 SDK Release',
@@ -103,6 +107,6 @@ export const developerNews: NewsItem[] = [
   title: 'OpenStudio is moving to GitHub',
   time: '2013-07-12 10:52:53 -0600',
   html: `<p>The OpenStudio source code repository is moving from SVN to GitHub. We are currently in the process of making this change. The SVN repository is still available as read-only.
-        If you would like access to the GitHub source code please setup an account at https://github.com/ and email OpenStudio@NREL.gov with your GitHub username, and the email used to register.</p>
+        If you would like access to the GitHub source code please setup an account at https://github.com/ and email OpenStudio@nlr.gov with your GitHub username, and the email used to register.</p>
         <p>Thanks for your patience through this process.</p><p>The OpenStudio Team.</p>`
 }];
